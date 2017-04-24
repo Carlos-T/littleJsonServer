@@ -1,0 +1,18 @@
+{
+"status": 200,
+"data": {
+  "onboard": {
+    "userId": "40280981595f20ad01595f2f598e0002",
+    "mobilePhoneNumber": {
+      "value": "1234567891"
+    },
+    "stage": "BASIC_DATA",
+    "personalData": {
+      "name": "Nombre de prueba"
+    },
+    "recommendationCode": "COD101",
+    "verificationData": {}
+  },
+  "token": "f67c88d0-bec6-4597-9434-fa4b8dfa0f8a"
+}
+}

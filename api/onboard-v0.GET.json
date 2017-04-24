@@ -1,0 +1,17 @@
+{
+"status": 200,
+"data": {
+  "userId": "4028098158e348d80158e34e28c90005",
+  "mobilePhoneNumber": {
+    "value": "1234567891"
+  },
+  "stage": "BASIC_DATA",
+  "personalData": {
+    "name": "Javi",
+    "contactDetail": {
+      "email": "javi@gmail.com"
+    }
+  },
+  "recommendationCode": "COD101"
+}
+}

@@ -1,0 +1,21 @@
+{
+"status": 200,
+"data": {
+  "destination": "MANAGER_ASSIGNMENT",
+  "_destinationsValues": "ENROLLMENT_OTP_MOBILE, MANAGER_ASSIGNMENT, SECURITY_QUESTIONS, DASHBOARD, ONBOARD, OPC(OTP_SMS, APPOINTMENTS, EMAIL_CONFIRMATION)",
+  "_errorsStates": "OPC(WRONG_USER_PASS, WRONG_USER)",
+  "userInfo": {
+    "id": "CUSID00000001",
+    "customerId": "756",
+    "clientAccount": "4570002381",
+    "mobilePhoneNumber": {
+      "value": "5555555555"
+    },
+    "name": "Javier",
+    "gender": null,
+    "email": "javier.lacalle@gft.com",
+    "status": "ACTIVE"
+  },
+  "token": "d5f38c82-685b-4830-bfdd-a037a16862cb"
+}
+}
