@@ -1,0 +1,41 @@
+{
+    "index": 0,
+    "responses": [
+        {
+            "status": 200,
+            "data": {
+				"data-is": "required",
+				"at-least": "empty-object"
+            },
+			"headers": {
+				"headers-are": "optional"
+			}
+        },
+        {
+            "status": 200,
+            "data": {}
+        },
+        {
+            "status": 200,
+            "data": {
+                "a": "A",
+				"b": 1
+            }
+        },
+        {
+            "status": 401,
+            "data": {
+                "response": "KO"
+            }
+        },
+        {
+            "status": 403,
+            "data": {
+                "response": "0"
+            },
+            "headers": {
+                "error-header": "KO"
+            }
+        }
+    ]
+}

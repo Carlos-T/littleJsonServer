@@ -1,0 +1,10 @@
+{
+	"status": 200,
+	"data": {
+		"data-is": "required",
+		"at-least": "empty-object"
+	},
+	"headers": {
+		"headers-are": "optional"
+	}
+}
